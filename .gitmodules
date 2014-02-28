@@ -1,0 +1,8 @@
+[submodule "full"]
+	path = full
+	url = C:/Users/Jefter/Documents/GitHub/rep_full
+	branch = master
+[submodule "lite"]
+	path = lite
+	url = C:/Users/Jefter/Documents/GitHub/rep_lite
+	branch = master
